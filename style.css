@@ -1,0 +1,12 @@
+body{
+   
+    background: tomato;
+}
+
+.target{
+    color: #B77EB5;
+    transition: 1s ease-in-out;
+}
+.target.clicked{
+    color: #E2D5CB;
+}
