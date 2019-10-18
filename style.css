@@ -10,3 +10,6 @@ body{
 .target.clicked{
     color: #E2D5CB;
 }
+.none{
+    display: none;
+}
